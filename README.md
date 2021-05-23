@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - i use the following languages
-- Html5, Vanilla-Js,EcmaScript,PHP-MYSQL,ReactJs,
+- Html5, Vanilla-Js, Bootstrap, jQuery, EcmaScript,PHP-MYSQL,ReactJs,
   Flutter with Dart.
 <!---
 mr4th/mr4th is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
